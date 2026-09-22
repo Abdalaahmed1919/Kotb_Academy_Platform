@@ -173,25 +173,8 @@ This project significantly improved my experience in:
 
 ### Homepage
 
-![Homepage](screenshots/home.png)
+![Homepage](home.png)
 
-### Student Dashboard
-
-![Student Dashboard](screenshots/student-dashboard.png)
-
-### Admin Dashboard
-
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
-### Exams System
-
-![Exams](screenshots/exams.png)
-
-### Lessons & Video Player
-
-![Video Player](screenshots/video-player.png)
-
----
 
 ## 🌐 Live Platform
 
